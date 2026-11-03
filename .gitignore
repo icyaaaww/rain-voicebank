@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.wav
+!release/*.zip
+build/
+normalized/
+voicebank/
+*.mp3.bak
+.venv/
